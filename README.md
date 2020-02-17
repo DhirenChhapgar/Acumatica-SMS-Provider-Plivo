@@ -22,12 +22,12 @@ Quick Start
 1.	Create Plivo Account and get your Plivo Phone Number (For more information [Click here](https://console.plivo.com/accounts/register/
 ))
 2.	You can access AUTH ID and AUTH TOKEN on your Account Dashboard in Plivo Console.
-4.	In Acumatica site, Go to System -> Management -> Configure -> Voice Provider (SM203535) screen and select PX.SmsProvider.Plivo.PlivoSmsProvider as Plug-In (type)
-5.	Specify Plug-In Parameters.
+3.	In Acumatica site, Go to System -> Management -> Configure -> Voice Provider (SM203535) screen and select PX.SmsProvider.Plivo.PlivoSmsProvider as Plug-In (type)
+4.	Specify Plug-In Parameters.
 
-![Screenshot](/_ReadMeImages/Image1.png)
+    ![Screenshot](/_ReadMeImages/Image1.png)
 
-6.  Now this Plivo-based provider can be used for sending access code during two-factor authentication and business notifications in Acumatica via SMS.
+5.  Now this Plivo-based provider can be used for sending access code during two-factor authentication and business notifications in Acumatica via SMS.
 
 Known Issues
 ------------
