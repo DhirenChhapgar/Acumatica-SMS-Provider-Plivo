@@ -1,6 +1,6 @@
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 
-Customization to include Plivo as SMS Provider in Acumatica ERP
+Plivo as SMS Provider in Acumatica ERP
 ==================================
 An extension that allows to use Plivo as SMS provider to send SMS notification from Acumatica.
 
